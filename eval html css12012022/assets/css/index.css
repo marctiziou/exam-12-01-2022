@@ -1,0 +1,117 @@
+.body{
+    margin: auto;
+    padding: auto;
+}
+.navbar2{    
+    display:flex;
+    justify-content: space-around;  
+    width: 100%; 
+  
+    background-color: gray;  
+}
+.titre1{
+    background-color: orangered;
+    height: 30px;     
+    width: 100%;
+}
+
+.header{
+    display:contents; 
+    width: 100%;   
+    justify-content:center;
+}
+
+
+.but{
+    border:black solid 3px;
+    
+}
+/* .table1{
+    display: flex;
+    text-align:justify;
+    justify-content: space-around;
+    width: 100%;
+  
+} */
+.table{
+    display: flex;
+    text-align:justify;
+    justify-content: space-around;
+    list-style: none;       
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.search{
+    width: 400px;
+    background-color: gray;
+    border: solid black 3px;
+    margin-top: 20px;
+}
+.title{
+    margin-right: 700px;
+}
+
+.logo{
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+}
+.succ{
+    margin-left: 200px;
+}
+
+.suite{
+    margin-left: 700px;
+}
+.titre2{
+    background-color: orangered;
+    height: 30px;
+    padding: 10px;
+   
+    width: 100%;
+}
+#tit{
+    background-color: orangered;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    list-style: none;
+    
+}
+.t1{
+        display: grid;
+        width: 800px;
+        grid-template-columns: 120px 120px 120px 120px;
+        align-items: start;
+        justify-content: space-between;
+        background-color: black;
+        color: blanchedalmond;
+      }
+
+.logo1{
+    border-radius: 50%;
+        /* clip-path:ellipse(50% 50%); */
+        
+}
+.logo2{
+    border-radius: 50%;
+        /* clip-path:ellipse(50% 50%); */
+        
+}
+.logo3{
+    border-radius: 50%;
+        /* clip-path:ellipse(50% 50%); */
+        
+}
+      
+
+            
+ 
+
+
